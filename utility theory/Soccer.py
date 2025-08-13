@@ -186,7 +186,7 @@ dead=False
 clock = pygame.time.Clock()
 
 #loading the game background image
-background_image = pygame.image.load("AI2_Assignment1_T3_2021.png").convert()
+background_image = pygame.image.load("background_img.png").convert()
 
 #defining fixed random agents i.e team members
 bluecenter = player(288,363,(0,0,255))
